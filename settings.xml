@@ -27,7 +27,7 @@
   <mirror>
     <id>codeartifact</id>
     <name>baylonpath--maven-central-store</name>
-    <url>https://baylonpath-165659391448.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
+    <url>https://https://baylonpath-165659391448.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
